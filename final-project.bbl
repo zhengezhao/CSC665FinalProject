@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+
+\bibitem{Hubert1985}
+Lawrence Hubert and Phipps Arabie.
+\newblock Comparing partitions.
+\newblock {\em Journal of Classification}, 2(1):193--218, Dec 1985.
+
+\bibitem{jolliffe86}
+I.~T. Jolliffe.
+\newblock {\em Principal component analysis}.
+\newblock Springer, New York, 1986.
+
+\bibitem{Kriegel:2009:CHD:1497577.1497578}
+Hans-Peter Kriegel, Peer Kr\"{o}ger, and Arthur Zimek.
+\newblock Clustering high-dimensional data: A survey on subspace clustering,
+  pattern-based clustering, and correlation clustering.
+\newblock {\em ACM Trans. Knowl. Discov. Data}, 3(1):1:1--1:58, March 2009.
+
+\bibitem{macqueen1967}
+J.~MacQueen.
+\newblock Some methods for classification and analysis of multivariate
+  observations.
+\newblock In {\em Proceedings of the Fifth Berkeley Symposium on Mathematical
+  Statistics and Probability, Volume 1: Statistics}, pages 281--297, Berkeley,
+  Calif., 1967. University of California Press.
+
+\bibitem{paszke2017automatic}
+Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary
+  DeVito, Zeming Lin, Alban Desmaison, Luca Antiga, and Adam Lerer.
+\newblock Automatic differentiation in pytorch.
+\newblock 2017.
+
+\bibitem{article}
+Murray Rosenblatt.
+\newblock Remarks on some non-parametric estimates of a density function.
+\newblock {\em The Annals of Mathematical Statistics}, 27, 09 1956.
+
+\bibitem{article2}
+Yoshikazu Terada.
+\newblock Clustering for high dimension, low sample size data using distance
+  vectors.
+\newblock 12 2013.
+
+\bibitem{vanDerMaaten2008}
+Laurens van~der Maaten and Geoffrey Hinton.
+\newblock Visualizing data using {t-SNE}.
+\newblock {\em Journal of Machine Learning Research}, 9:2579--2605, 2008.
+
+\bibitem{article3}
+Kazuyoshi Yata and Makoto Aoshima.
+\newblock Effective pca for high-dimension, low-sample-size data with noise
+  reduction via geometric representations.
+\newblock {\em J. Multivariate Analysis}, 105:193--215, 02 2012.
+
+\end{thebibliography}
